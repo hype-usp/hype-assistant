@@ -1,0 +1,144 @@
+📜 Regras e Diretrizes do Hype 🎲
+
+O Hype é um espaço que preza pela aproximação de seus Membros através de estudos, reuniões, bate-papos, eventos entre os Membros e atividades dos Setores. Essas atividades têm como foco estimular a interação entre os Membros para que haja um aperfeiçoamento de suas habilidades interpessoais e na área de Dados, em um ambiente social de aprendizado amigável e leve, sem abdicar da preocupação que temos com a qualidade dos estudos. Os estudos proporcionados são baseados no nível de conhecimento dos Membros, desde iniciantes até avançados. Os Membros podem manifestar suas opiniões e críticas acerca do Hype através do grupo do Discord, além de terem permissão de acessarem os meios de armazenamento de conteúdos produzidos pelo Hype. No Hype nós prezamos pela diversidade e não toleramos intolerância ou desrespeito. É de responsabilidade da Gestão, constituída pelas Diretorias do Hype e pelo Docente Tutor, monitorar o comportamento dos Membros a fim de garantir o respeito mútuo, a segurança e a harmonia do grupo. 
+
+👤 Deveres do Membro
+
+Frequentemente verificar e responder mensagens ou avisos importantes enviados no grupo do Hype no Discord ou Telegram, ou enviados pelo email hype-each@usp.br ;
+Fazer parte do grupo do Hype no Discord e no Telegram;
+Caso um Membro vá faltar de uma reunião do grupo de estudos, ele deve avisar seu grupo de sua ausência;
+Participar dos encontros e reuniões presenciais, sempre que possível;
+Fazer parte de exclusivamente um único Setor;
+A cada semestre, será necessário o Membro manifestar sua vontade de manter seu vínculo com o grupo a partir de um Forms que será enviado no começo do semestre, para que ele seja considerado como ainda pertencente ao Hype.
+Caso o Membro não se manifeste dentro do prazo, e possua vontade de permanecer no grupo, será necessário enviar um email para hype-each@usp.br com o assunto “Interesse em continuar no Hype” com o corpo do e-mail contendo:
+Nome completo;
+Setor de atuação.
+
+
+
+
+💼 Deveres do Membro dentro de seu Setor
+
+Fazer parte do espaço de seu Setor no ClickUp, assim como verificá-lo regularmente;
+Um Membro deve ser ativo no grupo de seu Setor, isto é, responder as mensagens da Diretoria do Setor ou das discussões que estão ocorrendo;
+Caso você, Membro, precise faltar de uma Reunião do Setor, é obrigatório um aviso prévio à Diretoria do Setor. Caso não avise previamente, você pode justificar posteriormente.
+
+🤝 Reunião Geral
+
+Haverá Duas Reuniões Gerais por mês, sendo uma na segunda semana do mês, e uma na quarta semana do mês;
+As Reuniões Gerais serão presenciais na EACH; 
+Os dias e horários das Reuniões Gerais serão baseados na disponibilidade da maioria dos Membros;
+Caso você, Membro, precise faltar em uma Reunião Geral, é obrigatório responder o “Formulário de Falta”, o qual poderá ser acessado pelo grupo do Telegram, Discord ou pelo email enviado; 
+Haverá um sistema de presença nas Reuniões Gerais.
+
+
+🚫 Proibições
+
+Agir de maneira indevida eticamente e/ou moralmente, como através de ofensas, xingamentos, assédios, ameaças, perseguições, preconceitos, doxxing (investigar a vida de uma pessoa sem autorização), ou através de qualquer comportamento que comprometa a segurança dos demais Membros;
+Caso você sofra algum tipo de abuso, ameaça, assédio, discriminação, ou se sentir inseguro, contate um Membro da Diretoria ou o Docente Tutor. Se um Membro da Diretoria for a pessoa que você quer reportar, fale com outro Membro da Diretoria ou o Docente Tutor.
+É proibido divulgar materiais internos do Hype sem autorização;
+Essas atitudes descritas acima NÃO SÃO CORRETAS. Se você não concorda com estas regras, por favor, desligue-se deste grupo.
+Obs.: A realização de uma ou mais ações descritas acima acarretará em penalidades, como descrito na seção abaixo.
+
+⚖️ Penalidades
+
+Um Membro pode receber as seguintes penalidades caso seu comportamento não esteja de acordo com os diretrizes do grupo;
+Existem três tipos de penalidades:
+Aviso: penalidade mais branda;
+Advertência: penalidade mais grave.
+Desligamento por tempo indeterminado.
+Caso um Membro acumule três avisos, ele receberá uma advertência;
+Caso o Membro acumule três advertências, ele sofrerá desligamento por tempo indeterminado
+Um Membro é passível de receber avisos devido: 
+Ausência nos canais de comunicação referentes aos grupos de estudos e Setores sem justificativa; 
+Falta em duas Reuniões Gerais consecutivas sem justificativa (sem responder o “Formulário de Falta”);
+Não cumprir os Deveres de um Membro ou os Deveres de um Membro dentro de seu Setor (explicado anteriormente) sem justificativa.
+Um Membro é passível de receber advertências diretas caso o comportamento de se ausentar em reuniões sem justificativa torne-se uma prática recorrente. Ou seja, o Membro poderá receber uma advertência direta ao invés de um aviso;
+Somos um grupo flexível e compreensível, e entendemos que cada Membro tem sua particularidade. Por isso, caso você justifique/explique seus motivos, essas penalidades podem ser retiradas. Nosso principal problema é a ausência de justificativa por parte dos Membros;
+No caso de um Membro agir de maneira indevida eticamente e/ou moralmente (como descrito em Proibições), haverá uma discussão sobre o que será feito em relação a ele, havendo três possibilidades, a depender da gravidade:
+Aviso;
+Advertência;
+Desligamento por tempo indeterminado.
+
+🔒 Política de trancamento
+
+Um Membro do Hype tem o direito de trancar sua participação no grupo durante o período de até quatro meses.
+O trancamento da participação no Hype consiste no Membro parar de participar das atividades do grupo durante esse período (tanto no grupo de estudos, quanto no Setor);
+O Membro poderá ter seu vínculo trancado até quatro meses, mas poderá solicitar seu retorno antes disso;
+Ao final desses quatro meses, entraremos em contato com o Membro para averiguar se ele deseja continuar participando do grupo ou não;
+Ao final do período de trancamento, caso o Membro não manifeste interesse em continuar participando do grupo, ele será considerado desligado;
+Após o término do período de trancamento, caso o Membro não manifeste sua vontade de permanecer no grupo e seja desligado, porém ainda possua interesse em participar das atividades do Hype, ele deve encaminhar um e-mail para hype-each@usp.br com o assunto “Interesse em retornar ao Hype” com o corpo do e-mail contendo:
+Nome completo;
+Antigo Setor de atuação.
+Caso um Membro da Diretoria deseje trancar o Hype, avisar o grupo de Gestão. Será necessário alocar um novo Membro para ocupar o cargo. É planejado que o novo integrante da Diretoria que virá a substituir a antiga Diretoria coordene o Setor de forma permanente, isto é, a nova Diretoria não será somente uma “Diretoria substituta/temporária”.
+
+👋 Política de desligamento
+
+Caso um Membro deseje desligar-se do Hype, ele deve avisar a Diretoria do Setor de Gestão de Pessoas ou Diretoria Geral;
+Caso um integrante da Diretoria deseje desligar-se do Hype, avisar com 15 dias de antecedência a Gestão.
+
+
+👥 Setor
+
+A partir do final do processo seletivo do primeiro semestre de 2023, todos os Membros deverão participar de um único Setor;
+De março de 2023 até o final do processo seletivo do primeiro semestre de 2023, caso um Membro que não participe de um Setor deseje entrar em algum, entre em contato com a Diretoria de Gestão de Pessoas;
+Os dias e horários das Reuniões do Setor serão baseados na disponibilidade da maioria dos Membros que queiram participar;
+Detalhes adicionais, como o funcionamento do Setor, serão especificados pela Diretoria do Setor;
+Procedimentos para troca de Setor:
+Um Membro tem que participar das atividades do Setor para o qual foi alocado no processo seletivo durante no mínimo dois meses para que possa ser elegível para trocar de Setor;
+Caso após esse período ele deseje mudar de Setor, entrar em contato com a Diretoria de Gestão de Pessoas;
+Observação: é possível que a troca de Setor não ocorra, a depender da situação.
+
+
+😄 Para ser elegível como Membro
+
+Precisa ser aluno de Graduação, de Mestrado ou de Doutorado da EACH-USP;
+Pode ser aluno de qualquer curso da EACH-USP;
+É necessário ser aprovado no processo seletivo;
+
+
+👑 Para ser elegível como Membro da Diretoria
+
+O Membro precisa atuar pelo menos quatro meses no Setor em que deseja assumir a Diretoria;
+O critério de seleção do candidato à Diretoria do Setor é de única e exclusiva responsabilidade da atual Diretoria do Setor em questão;
+Um candidato à Diretoria deve ter características como: engajamento no grupo, boa comunicação e liderança;
+Troca de Diretoria: Será feita uma reunião, se possível, com todos os Membros do Setor, ou com a maioria, para que a Diretoria possa decidir os rumos do grupo sem que prejudique o coletivo
+Para um Membro possa assumir a Diretoria Geral, ele precisa ter no mínimo quatro  meses de experiência como Diretor de Setor;
+Troca da Diretoria Geral: Será feita uma reunião, se possível, com todos os Membros da Diretoria, ou com a maioria, para que a atual Diretoria Geral possa decidir os rumos do grupo sem que prejudique o coletivo.
+
+➕ Extras
+
+Casos omissos no presente documento ou excepcionais serão tratados na Reunião de Gestão.
+
+
+
+☎️ Contatos da atual Gestão
+
+Diretoria Geral
+✉️ yago.primerano@usp.br
+ @ya_goth
+ ⛧YΔGØ⛧#6555
+
+Diretoria de Comunicação
+✉️ afcarvalho@usp.br
+ @Andre_Carvalho_0ll
+ Andre Carvalho#0892
+
+
+Diretoria de Conteúdos
+✉️
+
+
+
+Diretoria de Eventos
+✉️ pedrosemcovici@usp.br
+
+ 
+
+Diretoria de Gestão de Pessoas
+✉️ felmateos@usp.br
+ @Felps777
+ Morgueço#4813
+
+Docente Tutor
+✉️ digiampietri@usp.br 

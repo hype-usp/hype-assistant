@@ -1,0 +1,11 @@
+# CONVERSATION HISTORY #
+<conversation_history>
+{conversation_history}
+</conversation_history>
+#########
+
+# User Question#
+<user_question>
+{question}
+</user_question>
+#########

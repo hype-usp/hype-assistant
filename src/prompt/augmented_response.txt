@@ -1,0 +1,13 @@
+Below is the conversation history between the assistant and the user and the user's last question:
+
+# conversation history
+{conversation_history}
+
+# last user question
+user: {question}
+
+Following the rules below, do what is asked
+- Analyze the conversation history and the user's last question. Identify which previous questions relate to the user's last question and craft a new, expanded question that represents everything the user wants to know from your last question.
+- Do not add information that is not in the conversation history or invent anything. Just understand the user's sequence of questions very well and create a new expanded question that summarizes everything they want to know with your last question. If the previous questions of the user are not relevant to the last question, the expanded question will be equal to the last user question.
+- Create the expanded question in the same language the user is speaking.
+Answer by writing only the expanded question you prepared.
